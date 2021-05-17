@@ -14,7 +14,7 @@ import {
 } from "./components/components";
 
 const Weather = () => {
-  const API_KEY = "307c6c129d748887623bcb77fcf93c58";
+  const API_KEY = "709fe94985be6cb55af10f6c3f3a9d34";
   const [valueSearch, setValueSearch] = useState("");
   const [capitals, setCapitals] = useState([]);
   const [alpha2Code, setAlpha2Code] = useState({});
